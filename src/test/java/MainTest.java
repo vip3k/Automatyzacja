@@ -11,6 +11,7 @@ public class MainTest {
 
     WebDriver driver;
     LoginPage1 loginPage;
+    EditZadaniePage editZadaniePage;
 
 
     @Before

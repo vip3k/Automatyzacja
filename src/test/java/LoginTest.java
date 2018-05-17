@@ -14,9 +14,9 @@ public class LoginTest extends MainTest{
                 .setpPasswordInput("sumXQQ72$L")
                 .loginButton()
                 .assertUserIsLoggedIn();
+        super.editZadaniePage.addName("sdsd");
 
-
-    }
+   }
 
 
     @Test
