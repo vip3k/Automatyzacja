@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
  * Created by zp300424 on 27.05.2017.
  */
 public class LoginPage1 {
-WebDriver driver;
+    WebDriver driver;
 
     @FindBy(id = "email")
     WebElement emailInput;
@@ -21,7 +21,6 @@ WebDriver driver;
 
     public LoginPage1 setEmail(String email) {
         emailInput.sendKeys(email);
-        //driver.findElement(By.id("emial").sendKeys(emial) to samo co emailInput.sendKeys(email);
         return this;
     }
 
