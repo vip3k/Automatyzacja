@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package NewPackage;
 
 /**
  * Created by tomas on 2018-05-17.
