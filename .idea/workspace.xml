@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac55a46e-2919-44c6-a3da-b8931f711a20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/EditZadaniePage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/KokpitPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LoginPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/LoginPage1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/ZadaniaPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/LoginTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/MainTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/ZadaniaTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/Nowy.java" afterPath="$PROJECT_DIR$/src/test/java/NewPackage/Nowy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/NoweZadanie.java" afterPath="$PROJECT_DIR$/src/test/java/NoweZadanie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ZadaniaTest.java" afterPath="$PROJECT_DIR$/src/test/java/ZadaniaTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/NewPackage/Nowy.java" afterPath="$PROJECT_DIR$/src/test/java/NewPackage/Nowy.java" />
     </list>
     <ignored path="Automatyzacja.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,9 +75,12 @@
       <file leaf-file-name="Nowy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/NewPackage/Nowy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1240,9 +1231,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/NewPackage/Nowy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
