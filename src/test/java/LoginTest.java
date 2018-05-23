@@ -16,7 +16,11 @@ public class LoginTest extends MainTest{
                 .assertUserIsLoggedIn();
         super.editZadaniePage.addName("sdsd");
 
+<<<<<<< HEAD
    }
+=======
+    }
+>>>>>>> origin/nowy
 
 
     @Test
