@@ -11,11 +11,15 @@ public class MainTest {
 
     WebDriver driver;
     LoginPage1 loginPage;
+    KokpitPage kokpitPage;
+    ZadaniaPage zadaniaPage;
+    EditZadaniePage editZadaniePage;
+
 
 
     @Before
     public void openTestArena() {
-        System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\tomas\\Downloads\\chromedriver.exe");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         loginPage = PageFactory.initElements(driver, LoginPage1.class);
