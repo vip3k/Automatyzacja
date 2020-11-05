@@ -23,7 +23,7 @@ public class LoginTest extends MainTest{
     public void shouldNotLogin() {
        super.loginPage.openLoginPage()
         .setEmail("test@testarena.pl")
-        .setpPasswordInput("haslo123")
+        .setpPasswordInput("haslo323")
         .loginButton();
 
     }
