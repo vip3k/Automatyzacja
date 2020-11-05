@@ -1,4 +1,3 @@
-import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
@@ -15,9 +14,6 @@ public class KokpitPage {
         PageFactory.initElements(driver,this);
     }
 
-    public void assertUserIsLoggedIn(){
-        Assert.assertTrue(driver.findElement(By.id("header_logo")).isDisplayed());
-    }
 
     public void clickZadania(){
         driver.findElement(By.xpath("//*[@id=\"wrapper\"]/ul/li[7]/a")).click();
